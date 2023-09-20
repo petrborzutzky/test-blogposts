@@ -1,0 +1,17 @@
+---
+title: 'Scania - CAS30/8500/510-S2R'
+date: '2023-09-06'
+---
+
+Cisternová automobilová stříkačka na podvozku Scania P440 B6×6 HZ.
+
+Parametry:
+
+- Objem vody v nádrži **8500l**
+- Objem pěny v nádrži **510l**
+- Výkon čerpadla: **3000l vody/min**
+- Motor: Řadový šestiválec **324kW/ 2300Nm**
+- Automatická převodovka Opticruise
+- Délka: **9,95m**
+- Šířka: **2,55m**
+- Výška: **3,15m**
